@@ -4,7 +4,7 @@ This repository contains analysis of how weather patterns affect tea yield produ
 
 ## Project Overview
 
-This data analysis project explores the relationship between weather patterns and tea yield, helping to identify key meteorological factors that influence tea production. Understanding these patterns can help optimize tea cultivation and predict yields based on weather forecasts.
+This data analysis project explores the relationship between weather patterns and tea yield helping to identify key meteorological factors that influence tea production. Understanding these patterns can help optimize tea cultivation and predict yields based on weather forecasts.
 
 ## Features
 
